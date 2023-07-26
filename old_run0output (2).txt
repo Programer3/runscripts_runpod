@@ -1,0 +1,27 @@
+run2.sh output
+
+root@afab508c5642:/workspace# bash run2.sh
+kill port and manual restart for terminal progress bar
+run2.sh: line 2: $'\r': command not found
+Cannot stat file /proc/43/fd/0: Permission denied
+Cannot stat file /proc/43/fd/1: Permission denied
+Cannot stat file /proc/43/fd/2: Permission denied
+Cannot stat file /proc/43/fd/4: Permission denied
+Cannot stat file /proc/43/fd/5: Permission denied
+Cannot stat file /proc/43/fd/6: Permission denied
+Cannot stat file /proc/43/fd/7: Permission denied
+Cannot stat file /proc/43/fd/8: Permission denied
+Cannot stat file /proc/43/fd/9: Permission denied
+Cannot stat file /proc/43/fd/10: Permission denied
+Cannot stat file /proc/43/fd/11: Permission denied
+Cannot stat file /proc/43/fd/12: Permission denied
+Cannot stat file /proc/43/fd/13: Permission denied
+3000/tcp:              146
+run2.sh: line 3: $'\r': command not found
+python: can't open file '/workspace/relauncher.py': [Errno 2] No such file or directory
+run2.sh: line 4: $'\r': command not found
+scan for civitai images, use extension and update them and VAE settings
+run2.sh: line 5: $'\r': command not found
+run2.sh: line 6: syntax error near unexpected token `;'
+run2.sh: line 6: `echo <===== DONE RUN2.SH =====>;'
+root@afab508c5642:/workspace# 

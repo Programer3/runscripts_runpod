@@ -1,0 +1,6 @@
+run.sh output : 
+
+root@afab508c5642:/workspace# bash run.sh
+run.sh: line 1: syntax error near unexpected token `('
+'un.sh: line 1: `echo while (n<1): in relauncher.py, then copy config.json for settings;
+root@afab508c5642:/workspace# 
