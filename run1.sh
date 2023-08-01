@@ -16,6 +16,8 @@ which bash
 echo "make sure to update requirements file then"
 echo "cd /workspace/stable-diffusion-webui, pip3 install -r requirements.txt"
 python --version
+======================================ADD automatic (n>1) and pip installer from get-pip.py using shell read write 
+
 pip3 -V
 pip3 install --upgrade pip3
 # python3 -m pip install --upgrade pip

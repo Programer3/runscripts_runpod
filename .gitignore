@@ -1,0 +1,18 @@
+# https://www.pluralsight.com/guides/how-to-use-gitignore-file
+# Created by https://www.toptal.com/developers/gitignore/api/powershell
+# Edit at https://www.toptal.com/developers/gitignore?templates=powershell
+
+TEST_MODELS.sh
+my_run2.sh
+
+### PowerShell ###
+# Exclude packaged modules
+*.zip
+
+# Exclude .NET assemblies from source
+*.dll
+
+# Exclude notepad++ .bak files
+*.bak
+
+# End of https://www.toptal.com/developers/gitignore/api/powershell
